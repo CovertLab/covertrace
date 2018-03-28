@@ -5,7 +5,7 @@ API to handle live-cell time-series produced by covertrack.
 
 ### Installation
 ```
-git clone https://github.com/braysia/covertrace.git
+git clone --recursive https://github.com/braysia/covertrace.git
 cd covertrace
 python setup.py install
 ```
